@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Yasin Aktaş</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300"/>
+</p>
+
+<h3 align="center">🚀 Android Developer | Kotlin & Jetpack Compose Enthusiast</h3>
 
 <!--
 **yasinaktas/yasinaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
