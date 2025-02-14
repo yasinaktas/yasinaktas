@@ -6,6 +6,23 @@
 
 <h3 align="center">🚀 Android Developer | Kotlin & Jetpack Compose Enthusiast</h3>
 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F.svg?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" />
+</p>
+
+
 <!--
 **yasinaktas/yasinaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
