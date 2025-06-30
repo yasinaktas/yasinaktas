@@ -8,6 +8,8 @@
 
 <h2 align="left">Tech Stack</h1>
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white" />
